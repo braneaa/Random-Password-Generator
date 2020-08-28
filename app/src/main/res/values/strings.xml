@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Random Password Generator</string>
+    <string name="choose_how_your_password_should_be">Customize your password</string>
+    <string name="welcome">Welcome!</string>
+    <string name="how_many_characters">How many characters?</string>
+    <string name="do_you_want_symbols">Do you want symbols?</string>
+    <string name="do_you_want_numbers">Do you want numbers?</string>
+    <string name="do_you_want_capital_letters">Do you want capital letters?</string>
+    <string name="generate">GENERATE</string>
+</resources>
